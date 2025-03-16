@@ -50,41 +50,28 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 </div>
 
 ## Certifications
-- Cybersecurity: Vulnerability Assesment & Pen Testing (VAPT)
-  Udemy
+- Cybersecurity: Vulnerability Assesment & Pen Testing (VAPT) | Udemy
 
-- Fortinet Cybersecurity Associate (FCA)
-  Fortinet
+- Fortinet Cybersecurity Associate (FCA) | Fortinet
 
-- Certified Network Security Practioner (CNSP)
-  The SecOps Group
+- Certified Network Security Practioner (CNSP) | The SecOps Group
 
-- Computer Hardware Basics
-  Cisco
+- Computer Hardware Basics | Cisco
 
-- Cybersecurity Essentials
-  Cisco
+- Cybersecurity Essentials | Cisco
 
-- Operating System Basics
-  Cisco
+- Operating System Basics | Cisco
 
-- Introduction To Cybersecurity
-  Cisco
+- Introduction To Cybersecurity | Cisco
 
-- Cloud Practioner Essentials (Belajar Dasar AWS Cloud)
-  Dicoding Indonesia
+- Cloud Practioner Essentials (Belajar Dasar AWS Cloud) | Dicoding Indonesia
 
-- Memulai Pemrograman dengan Python
-  Dicoding Indonesia
+- Memulai Pemrograman dengan Python | Dicoding Indonesia
 
-- Belajar Dasar AI
-  Dicoding Indonesia
+- Belajar Dasar AI | Dicoding Indonesia
 
-- Belajar Dasar-Dasar DevOps
-  Dicoding Indonesia
+- Belajar Dasar-Dasar DevOps | Dicoding Indonesia
 
-- Belajar Dasar Git dengan Github
-  Dicoding Indonesia
+- Belajar Dasar Git dengan Github | Dicoding Indonesia
 
-- Belajar Jaringan Komputer Untuk Pemula
-  Dicoding Indonesia
+- Belajar Jaringan Komputer Untuk Pemula | Dicoding Indonesia
