@@ -105,4 +105,3 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cad0nk/cad0nk/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
