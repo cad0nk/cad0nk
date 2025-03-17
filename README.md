@@ -1,6 +1,16 @@
 # Hello, I'm Hafizh Al Fauzi
-<a href="www.linkedin.com/in/hafizhalfauzi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="left">
+  <a href="www.linkedin.com/in/hafizhalfauzi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="40" alt="tryhackme logo"  />
+</div>
 
+###
 
 I am an undergraduate Information Systems student with a strong passion for cybersecurity, particularly in blue team operations and SOC (Security Operations Center) Analyst.
 
