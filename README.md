@@ -32,6 +32,17 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 | Conducted log analysis for a ZTNA server agent (OpenZiti) using Wazuh | SOC Automation Lab|
 |  Developed and implemented Telegram alert notifications in Wazuh for real-time security alerts.| SOC Automation Lab|
 
+## Mini Projects
+
+|                                                              Mini Project                                                    | Overview Project           |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Installed and configured an AlmaLinux server to function as the ZTNA server | <a href="https://google.com">Detection Lab</a>|
+| Developed configurations and scenarios for restricted access based on roles and policies | <a href="https://google.com">Detection Lab</a>|
+| Configured monitoring systems using Prometheus and integrated them with Grafana for visualization and real-time alert notifications via Telegram.  | SOC Automation Lab|
+| Implemented ZTNA configurations for SSH and PostgreSQL | SOC Automation Lab|
+| Conducted log analysis for a ZTNA server agent (OpenZiti) using Wazuh | SOC Automation Lab|
+|  Developed and implemented Telegram alert notifications in Wazuh for real-time security alerts.| SOC Automation Lab|
+
 ## Tools
 
 ### Network
@@ -86,3 +97,12 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 - Belajar Dasar Git dengan Github | Dicoding Indonesia
 
 - Belajar Jaringan Komputer Untuk Pemula | Dicoding Indonesia
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cad0nk/cad0nk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cad0nk/cad0nk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cad0nk/cad0nk/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
