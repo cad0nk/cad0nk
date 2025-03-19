@@ -6,11 +6,9 @@
   <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo" />
   <a href="https://blueteamlabs.online/public/user/5a72a98b18bc3c000dc11a" target="_blank">
-  <img src="https://imgur.com/a/H78tpo1" width="65" height="40" alt="Blue Team Labs Online logo" />
   <a href="https://tryhackme.com/p/cad0nk" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="40" alt="tryhackme logo" />
   <a href="https://app.hackthebox.com/profile/1867441" target="_blank">
-  <img src="https://imgur.com/a/pb6Do5x" width="65" height="40" alt="Hack The Box logo" />
 </div>
 
 
