@@ -3,10 +3,15 @@
   <a href="https://www.linkedin.com/in/hafizhalfauzi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo" />
   </a>
+  <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo" />
+  <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo" />
+  <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo" />
+  <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="40" alt="whatsapp logo" />
+  <a href="https://discordapp.com/users/239606244409737216" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="40" alt="tryhackme logo" />
 </div>
 
