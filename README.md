@@ -26,23 +26,20 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 
 |                                                                 Project                                                      | Overview Project           |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Installed and configured an AlmaLinux server to function as the ZTNA server | <a href="https://google.com">Detection Lab</a>|
-| Developed configurations and scenarios for restricted access based on roles and policies | <a href="https://google.com">Detection Lab</a>|
-| Configured monitoring systems using Prometheus and integrated them with Grafana for visualization and real-time alert notifications via Telegram.  | SOC Automation Lab|
-| Implemented ZTNA configurations for SSH and PostgreSQL | SOC Automation Lab|
-| Conducted log analysis for a ZTNA server agent (OpenZiti) using Wazuh | SOC Automation Lab|
-|  Developed and implemented Telegram alert notifications in Wazuh for real-time security alerts.| SOC Automation Lab|
+| Installed and configured an AlmaLinux server to function as the ZTNA server | <a href="https://github.com/cad0nk/Project-1">Link Project</a>|
+| Developed configurations and scenarios for restricted access based on roles and policies | <a href="https://github.com/cad0nk/Project-2">Link Project</a>|
+| Configured monitoring systems using Prometheus and integrated them with Grafana for visualization and real-time alert notifications via Telegram.  | <a href="https://github.com/cad0nk/Project-3">Link Project</a>|
+| Implemented ZTNA configurations for SSH and PostgreSQL | <a href="https://github.com/cad0nk/Project-4">Link Project</a>|
+| Authored detailed documentation for the installation, configuration, and management of OpenZiti components. | <a href="https://github.com/cad0nk/Project-5">Link Project</a>|
+| Conducted log analysis for a ZTNA server agent (OpenZiti) using Wazuh | <a href="https://github.com/cad0nk/Project-6">Link Project</a>|
+|  Developed and implemented Telegram alert notifications in Wazuh for real-time security alerts.| <a href="https://github.com/cad0nk/Project-7">Link Project</a>|
 
 ## Mini Projects
 
 |                                                              Mini Project                                                    | Overview Project           |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Installed and configured an AlmaLinux server to function as the ZTNA server | <a href="https://google.com">Detection Lab</a>|
-| Developed configurations and scenarios for restricted access based on roles and policies | <a href="https://google.com">Detection Lab</a>|
-| Configured monitoring systems using Prometheus and integrated them with Grafana for visualization and real-time alert notifications via Telegram.  | SOC Automation Lab|
-| Implemented ZTNA configurations for SSH and PostgreSQL | SOC Automation Lab|
-| Conducted log analysis for a ZTNA server agent (OpenZiti) using Wazuh | SOC Automation Lab|
-|  Developed and implemented Telegram alert notifications in Wazuh for real-time security alerts.| SOC Automation Lab|
+| Install and Configure a Honeypot with PentBox on Kali Linux to Detect an Intrusion | <a href="https://github.com/cad0nk/MiniProject-1">Link Project</a>|
+
 
 ## Tools
 
