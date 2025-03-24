@@ -39,6 +39,8 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 |                                                              Mini Project                                                    | Overview Project           |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Install and Configure a Honeypot with PentBox on Kali Linux to Detect an Intrusion | <a href="https://github.com/cad0nk/MiniProject-1">Link Project</a>|
+| Actively participating Sherlocks challenges on Hack The Box in the categories of DFIR and SOC. | <a href="https://github.com/cad0nk/MiniProject-2">Link Project</a>|
+| Actively participating in challenges on Blue Team Labs Online in the categories of Security Operations, Digital Forensics, and Incident Response| <a href="https://github.com/cad0nk/MiniProject-3">Link Project</a>|
 
 
 ## Tools
