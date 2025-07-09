@@ -72,6 +72,8 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 </div>
 
 ## Certifications
+- Alibaba Cloud Certified Associate - Cloud Engineer
+
 - Cybersecurity: Vulnerability Assesment & Pen Testing (VAPT) | Udemy
 
 - Fortinet Cybersecurity Associate (FCA) | Fortinet
