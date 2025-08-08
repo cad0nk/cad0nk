@@ -62,11 +62,6 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
     <img src="https://img.shields.io/badge/-OpenZiti-6A0DAD?&style=for-the-badge&logo=OpenZiti&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-007BFF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
