@@ -14,7 +14,7 @@
 
 ###
 
-I am an undergraduate Information Systems student with a strong passion for cybersecurity, particularly in blue team operations and SOC (Security Operations Center) Analyst.
+I am an Fresh Graduate Information Systems student with a strong passion for cybersecurity, particularly in blue team operations and SOC (Security Operations Center) Analyst.
 
 ## Objective
 
