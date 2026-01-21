@@ -43,6 +43,7 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 | Actively participating in challenges on Blue Team Labs Online in the categories of Security Operations, Digital Forensics, and Incident Response| <a href="https://github.com/cad0nk/MiniProject-3">Link Project</a>|
 | Malware Traffic Analysis of Exploit Kit Infection from a Compromised Website (malware-traffic-analysis.net) | <a href="https://github.com/cad0nk/MiniProject-4">Link Project</a> |
 | Log Analysis using Wazuh SIEM (Introduction to SOC - Jadi Hacker Exam Simulation) | <a href="https://github.com/cad0nk/MiniProject-5">Link Project</a> |
+| Phishing Unfolding - Tryhackme (SOC Simulator) | <a href="https://github.com/cad0nk/MiniProject-6">Link Project</a> |
 
 
 ## Tools
