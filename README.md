@@ -70,6 +70,20 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 </div>
 
 ## Certifications
+- EC - Council Certified Incident Handler - EC Council
+
+- Certified Blue Team Practitioner (CBTP) - The SecOps Group
+
+- Certified Social Engineering Defense Practitioner (CSEDP) - The SecOps Group
+
+- Certified Phishing Prevention Specialist (CPPS) - Hack & Fix
+
+- Certified Cybersecurity Educator Professional (CCEP) - Red Team Leaders
+
+- ISO/IEC 27001 Information Security Associate™ - SkillFront
+
+- Certified Cyber Security Analyst (C3SA) - CyberWarFare Labs
+
 - Alibaba Cloud Certified Associate - Cloud Engineer
 
 - Cybersecurity: Vulnerability Assesment & Pen Testing (VAPT) | Udemy
