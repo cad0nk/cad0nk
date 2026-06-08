@@ -50,53 +50,69 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
 
 ### 🔍 SIEM
 <div>
-    <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Huawei%20SecMaster-FF0000?&style=for-the-badge&logo=Huawei&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-007BFF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Huawei%20SecMaster-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-026EF1?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ### 🤖 SOAR
 <div>
-    <img src="https://img.shields.io/badge/-Cortex%20XSOAR-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex%20XSOAR-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 </div>
 
 ### 🖥️ XDR
 <div>
-    <img src="https://img.shields.io/badge/-Trend%20Micro%20Vision%20One-D71920?&style=for-the-badge&logo=TrendMicro&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trend%20Micro%20Vision%20One-D71920?style=for-the-badge&logo=trendmicro&logoColor=white" />
 </div>
 
 ### 🔥 NGFW
 <div>
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20NGFW-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo%20Alto%20NGFW-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 </div>
 
 ### 🛡️ WAF
 <div>
-    <img src="https://img.shields.io/badge/-Huawei%20Cloud%20WAF-FF0000?&style=for-the-badge&logo=Huawei&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Huawei%20Cloud%20WAF-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 </div>
 
 ### 🌍 ASM
 <div>
-    <img src="https://img.shields.io/badge/-Cortex%20Xpanse-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex%20Xpanse-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+</div>
+
+### 📡 Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</div>
+
+### 📊 System Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</div>
+
+### 🔐 ZTNA
+<div>
+    <img src="https://img.shields.io/badge/-OpenZiti-6A0DAD?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 🕵️ Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM%20X--Force-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AbuseIPDB-2E7D32?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AlienVault%20OTX-00AEEF?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CTX.io-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20X--Force%20Exchange-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AbuseIPDB-2E7D32?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault%20OTX-00AEEF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CTX.io-8A2BE2?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 🐧 Operating System
 <div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ### 💻 Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## Certifications
