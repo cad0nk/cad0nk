@@ -53,7 +53,7 @@ I am now eager to transition into a professional role as a SOC Tier 1 Analyst, w
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Monitoring
+### System Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" />
